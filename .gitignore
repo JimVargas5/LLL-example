@@ -4,3 +4,5 @@
 *.swn
 *.sno
 *.swp
+*.nfs*
+
