@@ -1,4 +1,5 @@
-//Header comments with my name and purpose of the info in this file.   
+//H
+//eader comments with my name and purpose of the info in this file.   
 #include <iostream>
 using namespace std;
 
