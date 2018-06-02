@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #gitignore
 
 *.exe
@@ -21,4 +22,13 @@
 
 
 
+=======
+#ignore
+
+*.swm
+*.swn
+*.sno
+*.swp
+*.nfs*
+>>>>>>> 76d2e8b55dbc4d10ca547423dedaeac611c9a7ca
 
